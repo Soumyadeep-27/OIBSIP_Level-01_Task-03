@@ -1,6 +1,6 @@
 body{
     /* background-color: rgb(237, 200, 100); */
-    background-image: url(/coverpic.jpg);
+    background-image: url("/TASK 03/coverpic.img");
     background-size:cover;
 }
 h1{
